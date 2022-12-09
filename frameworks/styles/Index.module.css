@@ -1,0 +1,39 @@
+.align{
+  text-align: center;
+  justify-content: center;
+}
+
+.principal{
+  min-height: 50vh;
+}
+
+.merc{
+  margin-bottom: 50px;
+}
+
+.botao{
+  box-shadow: rgba(0, 0, 0, 0.342) 0px 5px 10px 3px;
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(
+    45deg,
+    transparent,
+    rgb(37,124,117)
+  );
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 10px 100px;
+  transition: all .3s ease-in-out;
+}
+
+.botao:hover{
+  font-size: 1.2rem;
+
+}
+
+.ph{
+  padding-top: 30px;
+  color: rgb(37, 124, 117);
+  text-shadow: rgba(37, 124, 117, 0.37) 3px 3px 5px;
+  margin-bottom: 20px;
+}

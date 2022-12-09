@@ -1,0 +1,14 @@
+.baixo{
+    background-color: rgb(37, 124, 117);
+    color: white;
+    height: 100px;
+    margin-top: 150px;
+}
+
+.baixo p{
+    align-items: center;
+    padding-top: 38px;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
